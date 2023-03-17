@@ -2,9 +2,11 @@
 
 ## Our design:
 Home page:
+
 <img width="478" alt="Screen Shot 2023-03-17 at 4 52 57 AM" src="https://user-images.githubusercontent.com/118076850/225857656-05e44c04-d0c6-4486-8bf5-cf1154d1578d.png">
 
 Reviews page:
+
 <img width="384" alt="Screen Shot 2023-03-17 at 4 48 40 AM" src="https://user-images.githubusercontent.com/118076850/225856748-70e41d29-d1b5-41a6-af3d-da3abbbf8709.png">
 <img width="396" alt="Screen Shot 2023-03-17 at 4 49 04 AM" src="https://user-images.githubusercontent.com/118076850/225856809-f4b8d9a5-597e-4b42-90d7-a5b5905ffbd7.png">
 
