@@ -2,9 +2,7 @@
 
 ## Our design:
 Home page:
-<img width="642" alt="Screen Shot 2023-03-17 at 4 40 11 AM" src="https://user-images.githubusercontent.com/118076850/225854998-c33305fd-b81e-4290-80d8-dacd861dbea9.png">
-<img width="640" alt="Screen Shot 2023-03-17 at 4 40 22 AM" src="https://user-images.githubusercontent.com/118076850/225855042-23e3ae07-4b6f-4435-958d-9fe51693567c.png">
-<img width="819" alt="Screen Shot 2023-03-17 at 4 43 30 AM" src="https://user-images.githubusercontent.com/118076850/225855667-a3480a12-6e52-4b62-a549-151fe8103f79.png">
+<img width="478" alt="Screen Shot 2023-03-17 at 4 52 57 AM" src="https://user-images.githubusercontent.com/118076850/225857656-05e44c04-d0c6-4486-8bf5-cf1154d1578d.png">
 
 Reviews page:
 <img width="384" alt="Screen Shot 2023-03-17 at 4 48 40 AM" src="https://user-images.githubusercontent.com/118076850/225856748-70e41d29-d1b5-41a6-af3d-da3abbbf8709.png">
